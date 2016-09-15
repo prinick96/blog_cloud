@@ -136,10 +136,11 @@
 
             <div class="col-sm-12 col-md-6">
               <div class="form-group">
-                <label>Teléfono:</label>
-                <input type="tel" name="telefono" class="form-control numeric" required="" />
+                <label>Repetir Contraseña:</label>
+                <input type="password" name="pass_repeat" class="form-control" required="" />
               </div>
             </div>
+
 
           </div>
 
